@@ -4,14 +4,13 @@
 
 | Link                                                 | Description                 |  
 |------------------------------------------------------|-----------------------------|  
-| 🔗 Website: https://patkub.github.io/fellow-dragons/ | A blog about FIRST Robotics |  
+| 🔗 https://patkub.github.io/fellow-dragons/          | A blog about FIRST Robotics |  
 
 ### 📦 NPM Packages
 
-| Link                                                        | Description                                                    |  
-|-------------------------------------------------------------|----------------------------------------------------------------|  
-| 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage                           |  
-|                                                             | 🔗 NPM: https://www.npmjs.com/package/local-storage-poorlyfill |  
+| Link                                                        | Description                                                                                          |  
+|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|  
+| 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage. 📦 NPM: https://www.npmjs.com/package/local-storage-poorlyfill |  
 
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
