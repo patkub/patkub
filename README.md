@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+| Link | Description |  
+|------|-------------|
+| 🔗 https://patkub.github.io/fellow-dragons/ | A blog about FIRST Robotics |  
+
+
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
