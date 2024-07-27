@@ -10,8 +10,8 @@
 
 | Link                                                        | Description                                                                                          |  
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|  
-| 🔗 Repo: https://github.com/patkub/auth0-rule-as-action     | Run an Auth0 Rule as an Action. 📦 NPM: https://www.npmjs.com/package/auth0-rule-as-action           |  
-| 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage. 📦 NPM: https://www.npmjs.com/package/local-storage-poorlyfill |  
+| 🔗 Repo: https://github.com/patkub/auth0-rule-as-action     | Run an Auth0 Rule as an Action. 📦 npm: https://www.npmjs.com/package/auth0-rule-as-action           |  
+| 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage. 📦 npm: https://www.npmjs.com/package/local-storage-poorlyfill |  
 
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
