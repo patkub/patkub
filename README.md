@@ -10,6 +10,7 @@
 
 | Link                                                        | Description                                                                                          |  
 |-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|  
+| 🔗 Repo: https://github.com/patkub/auth0-rule-as-action     | Run an Auth0 Rule as an Action. 📦 NPM: https://www.npmjs.com/package/auth0-rule-as-action           |  
 | 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage. 📦 NPM: https://www.npmjs.com/package/local-storage-poorlyfill |  
 
 <!--
