@@ -1,23 +1,23 @@
 ## Hi there 👋
 
 ### 🌐 Websites
-
-| Link                                                 | Description                        |  
-|------------------------------------------------------|------------------------------------|  
-| 🔗 https://patkub.github.io/fellow-dragons/          | A blog about FIRST Robotics (2016) |  
+- https://patkub.github.io/fellow-dragons/
+  - A blog about FIRST Robotics (2016)
 
 ### 📦 npm Packages
-
-| Link                                                        | Description                                                                                          |  
-|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------|  
-| 🔗 Repo: https://github.com/patkub/auth0-rule-as-action     | Run an Auth0 Rule as an Action. 📦 npm: https://www.npmjs.com/package/auth0-rule-as-action           |  
-| 🔗 Repo: https://github.com/patkub/local-storage-poorlyfill | In-memory polyfill for local storage. 📦 npm: https://www.npmjs.com/package/local-storage-poorlyfill |  
+- https://www.npmjs.com/package/auth0-rule-as-action
+  - Repo: https://github.com/patkub/auth0-rule-as-action
+  - Run an Auth0 Rule as an Action.
+- https://www.npmjs.com/package/local-storage-poorlyfill
+  - Repo: https://github.com/patkub/local-storage-poorlyfill
+  - In-memory polyfill for local storage.
 
 ### ⭐ Projects
 
-| Link                                                        | Description                                                                                                                                                                         |  
-|-------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 🔗 Repo: https://github.com/patkub/console-songs            | Given a song and artist, fetches lyrics from Genius, translates them to English using Azure AI Translator, and displays original and translated lyrics side-by-side in the console. |  
+console-songs
+  - Repo: https://github.com/patkub/console-songs
+  - PyPI: https://pypi.org/project/console-songs/
+  - Given a song and artist, fetches lyrics from Genius, translates them to English using Azure AI Translator, and displays original and translated lyrics side-by-side in the console.
 
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
