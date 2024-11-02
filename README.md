@@ -13,7 +13,7 @@
   - Repo: https://github.com/patkub/local-storage-poorlyfill
   - In-memory polyfill for local storage.
 
-### ⭐ Projects
+### 🐍 PyPI Packages
 - https://pypi.org/project/console-songs/
   - Repo: https://github.com/patkub/console-songs
   - Given a song and artist, fetches lyrics from Genius, translates them to English using Azure AI Translator, and displays original and translated lyrics side-by-side in the console.
