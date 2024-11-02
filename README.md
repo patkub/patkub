@@ -2,6 +2,7 @@
 
 ### 🌐 Websites
 - https://patkub.github.io/fellow-dragons/
+  - Repo: https://github.com/patkub/fellow-dragons
   - A blog about FIRST Robotics (2016)
 
 ### 📦 npm Packages
