@@ -4,7 +4,7 @@
 - [Fellow Dragons](https://patkub.github.io/fellow-dragons/) | [Repo](https://github.com/patkub/fellow-dragons) | A blog about FIRST Robotics (2016)
 
 ### 📦 npm Packages
-- [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | Run an Auth0 Rule as an Action
+- [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | Experimental NPM package to run an Auth0 Rule as an Action
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
 ### 🐍 PyPI Packages
