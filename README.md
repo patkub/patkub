@@ -12,6 +12,13 @@
 - [console-songs](https://pypi.org/project/console-songs/) | [Repo](https://github.com/patkub/console-songs)
   - Given a song and artist, fetches lyrics from Genius, translates them to English using Azure AI Translator, and displays original and translated lyrics side-by-side in the console.
 
+### 💻 Code Samples
+- [patkub/spring-data-jpa-users-example-1](https://github.com/patkub/spring-data-jpa-users-example-1)
+  - Example using Spring Data JPA to create a repository of users
+  - Spring Data JPA, Basic HTTP Auth using Spring Security, WebMvcTest unit tests
+- [patkub/vaadin-store-inventory-1](https://github.com/patkub/vaadin-store-inventory-1)
+  - Vaadin store inventory example with total profit
+
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
