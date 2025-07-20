@@ -13,6 +13,8 @@
   - Given a song and artist, fetches lyrics from Genius, translates them to English using Azure AI Translator, and displays original and translated lyrics side-by-side in the console.
 
 ### 💻 Code Samples
+- [patkub/mold-inventory-app](https://github.com/patkub/mold-inventory-app)
+  - A Cloudflare Worker using Auth0, Hono, Prisma, D1 and Next.js
 - [patkub/spring-data-jpa-users-example-1](https://github.com/patkub/spring-data-jpa-users-example-1)
   - Example using Spring Data JPA to create a repository of users
   - Spring Data JPA, Basic HTTP Auth using Spring Security, WebMvcTest unit tests
