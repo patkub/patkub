@@ -14,6 +14,7 @@
 
 ### 💻 Code Samples
 - [patkub/mold-inventory-app](https://github.com/patkub/mold-inventory-app)
+  - [https://mold-inventory-app-production.epicpatka.workers.dev/](https://mold-inventory-app-production.epicpatka.workers.dev/)
   - A Cloudflare Worker using Auth0, Hono, Prisma, D1 and Next.js
 - [patkub/spring-data-jpa-users-example-1](https://github.com/patkub/spring-data-jpa-users-example-1)
   - Example using Spring Data JPA to create a repository of users
