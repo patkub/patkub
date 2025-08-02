@@ -2,7 +2,6 @@
 
 ### 🌐 Websites
 - [patkub.vip](https://patkub.vip/) | [Repo](https://github.com/patkub/patkub-site) | Personal profile site
-- [Fellow Dragons](https://patkub.github.io/fellow-dragons/) | [Repo](https://github.com/patkub/fellow-dragons) | A blog about FIRST Robotics (2016)
 
 ### 📦 npm Packages
 - [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | Experimental NPM package to run an Auth0 Rule as an Action
