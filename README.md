@@ -3,7 +3,7 @@
 ### 💻 Code Samples
 - [patkub/mold-inventory](https://github.com/patkub/mold-inventory)
   - [https://mold-inventory-app-production.epicpatka.workers.dev/](https://mold-inventory-app-production.epicpatka.workers.dev/)
-  - Mold inventory management application on Cloudflare Workers using Auth0, Hono, Prisma, D1 and Next.js
+  - Mold inventory management application on Cloudflare Workers using Auth0, Hono, Prisma, D1, Next.js, and an MCP Server
 
 ### 🌐 Websites
 - [patkub.vip](https://patkub.vip/) | [Repo](https://github.com/patkub/patkub-site) | Personal profile site
