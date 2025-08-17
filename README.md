@@ -2,7 +2,8 @@
 
 ### 💻 Code Samples
 - [patkub/mold-inventory](https://github.com/patkub/mold-inventory)
-  - [https://mold-inventory-app-production.epicpatka.workers.dev/](https://mold-inventory-app-production.epicpatka.workers.dev/)
+  - App: [https://mold-inventory-app-production.epicpatka.workers.dev/](https://mold-inventory-app-production.epicpatka.workers.dev/)
+  - MCP server: [https://molds-mcp-production.epicpatka.workers.dev/sse](https://molds-mcp-production.epicpatka.workers.dev/sse)
   - Mold inventory management application on Cloudflare Workers using Auth0, Hono, Prisma, D1, Next.js, and an MCP Server
 
 ### 🌐 Websites
