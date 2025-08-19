@@ -16,6 +16,9 @@
 ### 🐍 PyPI Packages
 - [console-songs](https://pypi.org/project/console-songs/) | [Repo](https://github.com/patkub/console-songs) | Fetches song lyrics from Genius and translates them to English using Azure AI Translator
 
+### ⚡ Setup
+- [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Script to setup my Ubuntu development environment
+
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
