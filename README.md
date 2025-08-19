@@ -13,9 +13,6 @@
 - [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | Experimental NPM package to run an Auth0 Rule as an Action
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
-### 🐍 PyPI Packages
-- [console-songs](https://pypi.org/project/console-songs/) | [Repo](https://github.com/patkub/console-songs) | Fetches song lyrics from Genius and translates them to English using Azure AI Translator
-
 ### ⚡ Setup
 - [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Script to setup my Ubuntu development environment
 
