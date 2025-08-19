@@ -14,7 +14,7 @@
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
 ### ⚡ Setup
-- [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Script to setup my Ubuntu development environment
+- [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
