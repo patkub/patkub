@@ -10,7 +10,7 @@
 - [patkub.vip](https://patkub.vip/) | [Repo](https://github.com/patkub/patkub-site) | Personal profile site
 
 ### 📦 npm Packages
-- [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | Experimental NPM package to run an Auth0 Rule as an Action
+- [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | NPM package to run an Auth0 Rule as an Action
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
 ### ⚡ Setup
