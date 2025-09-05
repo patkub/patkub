@@ -11,6 +11,7 @@
 
 ### 📦 npm Packages
 - [auth0-rule-as-action](https://www.npmjs.com/package/auth0-rule-as-action) | [Repo](https://github.com/patkub/auth0-rule-as-action) | NPM package to run an Auth0 Rule as an Action
+  - Auth0 Community post: https://community.auth0.com/t/run-auth0-rules-as-post-login-actions/191493
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
 ### ⚡ Setup
