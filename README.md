@@ -17,7 +17,7 @@
 ### ⚡ Setup
 - [infra](https://github.com/patkub/infra) | Terraform configuration for my infrastructure
   - PC connected to Cloudflare tunnel accessible at [meerkat.patkub.vip](https://meerkat.patkub.vip)
-  - Access to [meerkat.patkub.vip](https://meerkat.patkub.vip) is secured via Auth0 OIDC Client requiring device Passkey Auth
+  - Access to [meerkat.patkub.vip](https://meerkat.patkub.vip) is secured via Auth0 OIDC Client
 - [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
 <!--
