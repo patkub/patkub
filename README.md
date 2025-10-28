@@ -15,6 +15,9 @@
 - [local-storage-poorlyfill](https://www.npmjs.com/package/local-storage-poorlyfill) | [Repo](https://github.com/patkub/local-storage-poorlyfill) | In-memory polyfill for local storage
 
 ### ⚡ Setup
+- [infra](https://github.com/patkub/infra) | Terraform configuration for my infrastructure
+  - PC connected to Cloudflare tunnel accessible at [meerkat.patkub.vip](meerkat.patkub.vip)
+  - Access to [meerkat.patkub.vip](meerkat.patkub.vip) is secured via Auth0 OIDC Client requiring device Passkey Auth
 - [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
 <!--
