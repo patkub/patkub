@@ -7,7 +7,7 @@
   - A Cloudflare tunnel accessible via SSH at [meerkat.patkub.vip](https://meerkat.patkub.vip)
 - [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
-### 💻 Code Samples
+### 💻 Applications
 - [patkub/mold-inventory](https://github.com/patkub/mold-inventory)
   - App: [https://mold-inventory-app-production.epicpatka.workers.dev/](https://mold-inventory-app-production.epicpatka.workers.dev/)
   - MCP server: [https://molds-mcp-production.epicpatka.workers.dev/sse](https://molds-mcp-production.epicpatka.workers.dev/sse)
