@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### ⚡ Infrastructure
-- [infra](https://github.com/patkub/infra) | Cloudflare Access secured with Auth0 and PassKey only login
+- [patkub/infra](https://github.com/patkub/infra) | Cloudflare Access secured with Auth0 and PassKey only login
   - Cloudflare Access is secured with Auth0
   - Auth0 Action and Forms enforce login with PassKey only
   - A Cloudflare tunnel accessible via SSH at [meerkat.patkub.vip](https://meerkat.patkub.vip)
-- [ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
+- [patkub/ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
 ### 💻 Applications
 - [patkub/mold-inventory](https://github.com/patkub/mold-inventory)
