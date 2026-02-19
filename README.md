@@ -3,7 +3,8 @@
 ### ⚡ Infrastructure
 - [patkub/infra](https://github.com/patkub/infra) | Cloudflare Access secured with Auth0 and passkey only login
   - Implemented Cloudflare Zero Trust Access integrated with Auth0 OpenID Connect (OIDC), including a custom Post-Login Action enforcing passkey only authentication.
-  - Secured remote access via short-lived SSH certificates and Cloudflare tunnels, enabling passwordless SSH/VNC access without exposed ports or static SSH key management.
+  - Secured remote access via short-lived SSH certificates and Cloudflare Tunnels, enabling passwordless SSH/VNC access without exposed ports or static SSH key management.
+  - Provisioned and managed all Cloudflare and Auth0 resources using Terraform to ensure repeatable, infrastructure-as-code deployments.
 - [patkub/ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 
 ### 💻 Applications
