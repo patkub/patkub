@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-### :email: Contact
-- LinkedIn: [LinkedIn.com/in/patkub/](https://www.linkedin.com/in/patkub/)
-- Credly: [Credly.com/users/patrick-kubiak](https://www.credly.com/users/patrick-kubiak)
+Contact: [LinkedIn](https://www.linkedin.com/in/patkub/) | [Credly](https://www.credly.com/users/patrick-kubiak)
 
 ### :zap: Infrastructure
 - [patkub/infra](https://github.com/patkub/infra) | Cloudflare Access secured with Auth0 and passkey only login
