@@ -4,6 +4,7 @@ Hi there 👋
 [![](https://img.shields.io/badge/%F0%9F%91%8B%20-patkub.vip-222)](https://patkub.vip/)
 [![](https://img.shields.io/badge/🔗-LinkedIn-0077B5)](https://www.linkedin.com/in/patkub/)
 [![](https://img.shields.io/badge/%F0%9F%94%97%20-Credly-005850)](https://www.credly.com/users/patrick-kubiak)
+[![](https://img.shields.io/badge/%F0%9F%94%97%20-npm-CC3534)](https://www.npmjs.com/~patkub)
 
 <!-- Short Project Descriptions -->
 <!--
