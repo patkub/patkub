@@ -5,10 +5,19 @@
 [![](https://img.shields.io/badge/🔗-LinkedIn-0077B5)](https://www.linkedin.com/in/patkub/)
 [![](https://img.shields.io/badge/%F0%9F%94%97%20-Credly-005850)](https://www.credly.com/users/patrick-kubiak)
 
-<!-- Projects -->
+<!-- Long Project Descriptions -->
+- [patkub/infra](https://github.com/patkub/infra) | Implemented Cloudflare Zero Trust Access integrated with Auth0 OpenID Connect (OIDC), including a custom Post-Login Action that enforces passkey only authentication. Secured remote access via short-lived SSH certificates and Cloudflare Tunnels, enabling passwordless SSH/VNC access without exposing ports or managing static SSH keys. Provisioned and managed all Cloudflare and Auth0 resources using Terraform to ensure repeatable, infrastructure-as-code deployments.
+- [patkub/ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
+- [patkub/mold-inventory](https://github.com/patkub/mold-inventory) | A mold inventory management system on Cloudflare Workers using Hono, Prisma ORM, Cloudflare D1, and Next.js, with authentication and authorization handled by Auth0. Includes a Model Context Protocol (MCP) server that allows an LLM to securely access and retrieve mold inventory data on behalf of users with appropriate permissions.
+
+<!-- Short Project Descriptions -->
+<!--
 - [patkub/infra](https://github.com/patkub/infra) | Cloudflare Access secured with Auth0 and passkey only login
 - [patkub/ubuntu-setup](https://github.com/patkub/ubuntu-setup) | Bash scripts to setup my Ubuntu development environment from a fresh install
 - [patkub/mold-inventory](https://github.com/patkub/mold-inventory) | Mold inventory management application on Cloudflare Workers using Auth0, Hono, Prisma, D1, Next.js, and an MCP Server
+-->
+
+<!-- -->
 
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
