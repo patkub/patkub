@@ -20,6 +20,9 @@
 
 [patkub/mold-inventory](https://github.com/patkub/mold-inventory) | Developed a serverless mold inventory management system on Cloudflare Workers using Hono, Prisma ORM, Cloudflare D1, and Next.js, with authentication and authorization handled by Auth0. Integrated a Model Context Protocol (MCP) server that allows an LLM to securely access and retrieve mold inventory data on behalf of users with appropriate permissions.
 
+<!-- -->
+[patkub/auth0-obo-flow-sample](https://github.com/patkub/auth0-obo-flow-sample) | Sample app for Auth0 On-Behalf-Of (OBO) token exchange to enable middle-tier services to preserve user identity and permissions when calling downstream APIs.
+
 <!--
 **patkub/patkub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
